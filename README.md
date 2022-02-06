@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nvnmangla
-- 👀 I’m interested in deep learining and Autonomous Vehicles 
+- 👀 I’m interested in Computer-Vision and Autonomous Vehicles 
 - 🌱 I’m currently learning ROS and Robot Programming
 - 💞️ I’m looking to collaborate on projects involving Robotics
 - 📫 Reach me at @nmangla@umd.edu
