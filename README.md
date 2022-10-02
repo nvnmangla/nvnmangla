@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nvnmangla
+- 👋 Hi, I’m Naveen Mangla @nvnmangla
 - 👀 I’m interested in Computer-Vision and Autonomous Vehicles 
 - 🌱 I’m currently learning ROS and Robot Programming
 - 💞️ I’m looking to collaborate on projects involving Robotics
