@@ -21,11 +21,12 @@ Currently, I am looking for full time work in the field of Robotics or Computer 
 - 👯 I’m looking to collaborate on Computer Vision Projects  
 - 📫 How to reach me: nmangla@umd.edu 
 
+[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvnmangla)](https://github.com/nvnmangla/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nvnmangla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/naveen-mangla-68a516172//)  
 
-![Naveen's Activity Graph](https://activity-graph.herokuapp.com/graph?username=nvnmangla)  
-[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvnmangla)](https://github.com/nvnmangla/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/https://github.com/nvnmangla)  
+
 <!---
 nvnmangla/nvnmangla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
