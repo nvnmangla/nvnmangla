@@ -8,7 +8,7 @@ My experience involves working as a Graduate Research Assistant in the departmen
 
 Currently, I am looking for full time work in the field of Robotics or Computer Vision after my graduation. I am open for Co-op work for my Spring 2023.
 
-## Skills:
+## Skills 🦾
 - 💻 C++ 
 - 💻 Python 
 - 🤖 ROS 
