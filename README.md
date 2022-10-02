@@ -8,8 +8,14 @@ My experience involves working as a Graduate Research Assistant in the departmen
 
 Currently, I am looking for full time work in the field of Robotics or Computer Vision after my graduation. I am open for Co-op work for my Spring 2023.
 
-Skills: C++, Python, ROS, Computer-Vision, Modeling
+## Skills:
+- 💻 C++ 
+- 💻 Python 
+- 🤖 ROS 
+- 📷 Computer-Vision
+- 🚙 Modeling
 
+## Currently 👁️
 - 🔭 I’m currently working on Obstacle Avoidance - UAV, running at 50 Miles/hr 
 - 👯 I’m looking to collaborate on Computer Vision Projects  
 - 📫 How to reach me: nmangla@umd.edu 
