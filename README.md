@@ -11,6 +11,7 @@ Currently, I am looking for full time work in the field of Robotics or Computer 
 ## Skills 🦾
 - 💻 C++ 
 - 💻 Python 
+- 🤔 Planning 
 - 🤖 ROS 
 - 📷 Computer-Vision
 - 🚙 Modeling
