@@ -24,7 +24,8 @@ Currently, I am looking for full time work in the field of Robotics or Computer 
 [![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvnmangla)](https://github.com/nvnmangla/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nvnmangla)  
 
-[!Profile views](https://gpvc.arturio.dev/nvnmangla)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/nvnmangla) 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/nvnmangla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/naveen-mangla-68a516172//)  
 
