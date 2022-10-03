@@ -6,7 +6,7 @@ A current Graduate Student at the University of Maryland, College Park, majoring
 
 My experience involves working as a Graduate Research Assistant in the department of Aerospace Engineering at the University of Maryland. And also, Teaching assistant for Flight Software systems for the same department.
 
-Currently, I am looking for full time work in the field of Robotics or Computer Vision after my graduation. I am open for Co-op work for my Spring 2023.
+
 
 ## Skills 🦾
 - 💻 C++ 
@@ -18,7 +18,7 @@ Currently, I am looking for full time work in the field of Robotics or Computer 
 
 ## Currently 👁️
 - 🔭 I’m currently working on Obstacle Avoidance - UAV, running at 50 Miles/hr 
-- 👯 I’m looking to collaborate on Computer Vision Projects  
+- 👯 I’m looking to full time position in Computer Vision or Autonomous Systems and open to Co-op for spiring 2023  
 - 📫 How to reach me: nmangla@umd.edu 
 
 [![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvnmangla)](https://github.com/nvnmangla/github-readme-stats)
