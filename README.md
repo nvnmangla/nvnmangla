@@ -1,6 +1,6 @@
 ### Hi there 👋, Naveen Mangla
 #### I am Masters Student in Robotics, University of Maryland
-![I am Masters Student in Robotics, University of Maryland](https://media-exp1.licdn.com/dms/image/C4E16AQHHYmO4iVJWzw/profile-displaybackgroundimage-shrink_350_1400/0/1636211618780?e=1670457600&v=beta&t=xbk-FfU45Cwi7Fos2JBkRSvqUvz1DsQQ1n-xBEranIM)
+<!-- ![I am Masters Student in Robotics, University of Maryland](https://media-exp1.licdn.com/dms/image/C4E16AQHHYmO4iVJWzw/profile-displaybackgroundimage-shrink_350_1400/0/1636211618780?e=1670457600&v=beta&t=xbk-FfU45Cwi7Fos2JBkRSvqUvz1DsQQ1n-xBEranIM) -->
 
 A current Graduate Student at the University of Maryland, College Park, majoring in MEng. In Robotics focused on Computer Vision and Autonomous Systems.
 
