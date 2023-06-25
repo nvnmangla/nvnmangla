@@ -17,9 +17,9 @@ My experience involves working as a Graduate Research Assistant in the departmen
 - 🚙 Modeling
 
 ## Currently 👁️
-- 🔭 I’m currently working on Obstacle Avoidance - UAV, running at 50 Miles/hr 
-- 👯 I’m looking to full time position in Computer Vision or Autonomous Systems and open to Co-op for spiring 2023  
-- 📫 How to reach me: nmangla@umd.edu 
+- 🔭 I’m currently Looking for Computer Vision or Autonomous Systems and open to Co-op for spiring 2023
+- 
+- 📫 How to reach me: nmangla@terpmail.umd.edu
 
 [![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvnmangla)](https://github.com/nvnmangla/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nvnmangla)  
